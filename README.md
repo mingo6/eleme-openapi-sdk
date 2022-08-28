@@ -14,7 +14,7 @@
 ### 安装
 
 ```php
-    composer require eleme-openapi/eleme-openapi-sdk
+    composer require sobyte/eleme-openapi-sdk
 ```
 
 ### 基本用法
